@@ -1,3 +1,3 @@
 # HackeRrank
 
-Hackerrank C challenges 
+Hacker rank C challenges 
