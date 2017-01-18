@@ -22,6 +22,7 @@ int main()
     {
         for(j=0;j<n;j++)
         {
+            //Main Diagonal
             if(i==j)
              d1=d1+a[i][j]; 
         }   
@@ -30,6 +31,7 @@ int main()
      {
          for(j=0;j<n;j++)
          {
+              //Secondary Diagonal
              if(i==n-j-1)
              d2=d2+a[i][j];
          }
