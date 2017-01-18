@@ -2,15 +2,15 @@
     
     int i;
     int countP = 0, countN = 0, countZ = 0;
-    int arr[5];
+    int array[5];
     
     //calculate which fraction of its elements are positive, negative, and zeroes
    printf("Enter 5 elements into the array number:\n");
     for(i = 0; i < 5; i++){
-       scanf("%d",&arr[i]);
-       if(arr[i]> 0)
+       scanf("%d",&array[i]);
+       if(array[i]> 0)
             countP++;
-       else if(arr[i] < 0)
+       else if(array[i] < 0)
             countN++;
        else
             countZ++;
