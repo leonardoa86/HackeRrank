@@ -1,3 +1,4 @@
+//Starcaise Problem
 #include <stdio.h>
 
 int n,row,Colspace,ColStar;
